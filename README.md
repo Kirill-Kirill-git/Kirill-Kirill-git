@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - ❤️ Тест-кейсы: https://docs.google.com/spreadsheets/d/1VQ6Z0rXmUDxT64XrgYHTO5p_aVD_oXNlMPivzpwuB48/edit?usp=sharing
 - 🆎 Классы эквивалентности и граничные значения: https://docs.google.com/spreadsheets/d/1Dbuhovqc15_y7s78yFGvmfyIfBlqfORwkNOAOktIHpg/edit?usp=sharing
 - 💢 Баг-репорты: https://docs.google.com/document/d/1VeEwlSXenwVQdQal41NsViQV_npabOmLfwxm6A6ttd0/edit?usp=sharing
+- 💌 Postman: https://www.postman.com/kirill-kirill/workspace/kirill-qa-portfolio/collection/22688329-3c621bc2-8015-46c7-8878-4ecdf8c16c20?action=share&creator=22688329
+- 💡 Miro: https://miro.com/app/board/uXjVOtG604M=/
 ### Связаться со мной 📣
 - 📫 mail: kirill.imready@gmail.com
 - 📱 phone: 89818368960
